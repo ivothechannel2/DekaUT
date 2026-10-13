@@ -1,0 +1,19 @@
+You need to have Python installed, 
+
+ and run the following command in your terminal to install the necessary libraries:
+
+
+
+```bash
+
+pip install numpy librosa sounddevice scipy
+
+```
+
+To start the program, run:
+
+```bash
+
+python dekaut\_app.py
+
+```
